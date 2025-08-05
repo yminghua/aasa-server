@@ -1,0 +1,10 @@
+{
+  "webcredentials": {
+    "apps": [
+      "S6S6H86R92.com.minghuayang.PasskeySSHDemo",
+      "S6S6H86R92.com.bytedance.Secretive.Host",
+      "S6S6H86R92.com.bytedance.Secretive.SecretAgent",
+      "S6S6H86R92.com.bytedance.tauri-passkey-demo"
+    ]
+  }
+}
